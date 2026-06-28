@@ -1,0 +1,5 @@
+DOMAIN-KEYWORD,push.apple,APNs
+DOMAIN-SUFFIX,cable.auth.com,APNs
+DOMAIN-SUFFIX,init-p01md.apple.com,APNs
+DOMAIN-SUFFIX,push.apple.com,APNs
+IP-CIDR,17.0.0.0/8,APNs,no-resolve
