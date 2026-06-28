@@ -1,7 +1,5 @@
-DOMAIN, u.expo.dev
-DOMAIN, o552333.ingest.us.sentry.io
-DOMAIN, featureassets.org
-DOMAIN, prodregistryv2.org
+DOMAIN,featureassets.org
+DOMAIN,prodregistryv2.org
 DOMAIN-SUFFIX,sardine.ai
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,api.kraken.com
