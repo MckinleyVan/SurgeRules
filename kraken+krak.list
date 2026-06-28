@@ -1,7 +1,24 @@
-DOMAIN, c4kyk0jowzyscka73eufw9qk07pxdrcc.d.sardine.ai
 DOMAIN, u.expo.dev
 DOMAIN, o552333.ingest.us.sentry.io
-DOMAIN-SUFFIX, kraken.com
-DOMAIN, api.sardine.ai
 DOMAIN, featureassets.org
 DOMAIN, prodregistryv2.org
+DOMAIN-SUFFIX,sardine.ai
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,api.kraken.com
+DOMAIN-SUFFIX,ws.kraken.com
+DOMAIN-SUFFIX,kraken.io
+DOMAIN-SUFFIX,kraken.auth0.com
+DOMAIN-SUFFIX,krakenstatic.com
+DOMAIN-SUFFIX,cdn.kraken.com
+DOMAIN-SUFFIX,pro.kraken.com
+DOMAIN-SUFFIX,trade.kraken.com
+DOMAIN-SUFFIX,futures.kraken.com
+DOMAIN-SUFFIX,api-futures.kraken.com
+DOMAIN-SUFFIX,cryptowat.ch
+DOMAIN-SUFFIX,krak.com
+DOMAIN-SUFFIX,krakenwallet.com
+DOMAIN-SUFFIX,smooch.io
+DOMAIN-SUFFIX,sunshineconversations.io
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-KEYWORD,kraken
