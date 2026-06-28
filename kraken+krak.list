@@ -16,9 +16,11 @@ DOMAIN-SUFFIX,futures.kraken.com
 DOMAIN-SUFFIX,api-futures.kraken.com
 DOMAIN-SUFFIX,cryptowat.ch
 DOMAIN-SUFFIX,krak.com
+DOMAIN-SUFFIX,krak.app
 DOMAIN-SUFFIX,krakenwallet.com
 DOMAIN-SUFFIX,smooch.io
 DOMAIN-SUFFIX,sunshineconversations.io
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-KEYWORD,kraken
+DOMAIN-KEYWORD,krak
