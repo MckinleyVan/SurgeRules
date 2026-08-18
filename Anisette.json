@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "MyServer",
+            "address": "https://anisette-v3-server-yknh.onrender.com"
+        }
+    ]
+}
